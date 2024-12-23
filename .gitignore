@@ -1,0 +1,41 @@
+# Unity-specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.apk
+
+# Temporary and Cache files
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+OVRAssetBundles/
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+*.userprefs
+
+# Package Management
+Packages/packages-lock.json
+
+# Asset Bundles
+OVRAssetBundles/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+
+# Videos and pictures
+*.mp4
+*.jpg
+*.png
