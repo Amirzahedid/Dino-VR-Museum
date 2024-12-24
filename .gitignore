@@ -20,6 +20,7 @@ OVRAssetBundles/
 *.sln
 *.suo
 *.userprefs
+.vsconfig
 
 # Package Management
 Packages/packages-lock.json
